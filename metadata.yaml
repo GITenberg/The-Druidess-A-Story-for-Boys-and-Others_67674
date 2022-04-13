@@ -1,0 +1,28 @@
+_repo: The-Druidess-A-Story-for-Boys-and-Others_67674
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gay, Florence
+    gutenberg_agent_id: '54392'
+    url: http://www.gutenberg.org/2009/agents/54392
+description: ''
+gutenberg_issued: '2022-03-21'
+identifiers:
+  gutenberg: '67674'
+language: en
+pgterms:marc905: 20210706180053gay
+pgterms:marc906: '1908'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from scans of public domain works at The National Library
+  of Australia.)
+publication_note: United Kingdom :John Ouseley,1908.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Anglo-Saxon period, 449-1066 -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'The Druidess: A Story for Boys and Others'
+url: http://www.gutenberg.org/ebooks/67674
