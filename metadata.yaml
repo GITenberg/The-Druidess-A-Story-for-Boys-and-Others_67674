@@ -1,11 +1,16 @@
 _repo: The-Druidess-A-Story-for-Boys-and-Others_67674
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67674-h/images/cover.jpg
 creator:
   author:
     agent_name: Gay, Florence
     gutenberg_agent_id: '54392'
     url: http://www.gutenberg.org/2009/agents/54392
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67674#The-Druidess-A-Story-for-Boys-and-Others
 gutenberg_issued: '2022-03-21'
 identifiers:
   gutenberg: '67674'
